@@ -11,5 +11,5 @@
                  {"describe":"SimpleCion是一个简单的，不太安全，不太完整的用Python制作的区块链实现。这个项目的目标是制作一个有效的区块链货币，尽可能的使它简洁，可以用作教材。","id":0,"link":"https://github.com/StupidTAO/SimpleCoin","name":"SimpleCoin"},
                  {"describe":"这是一个基于第三方与服务开发的Android APP，本项目与Siri功能类似可与用户对话，查询天气、检索信息、智能聊天等功能。","id":0,"link":"https://github.com/StupidTAO/IceCream_Turling","name":"IceCream_Turling"},
                  {"describe":"Python2包含了很多使用的小程序，Python2解决一些常见的问题，也为初学者提供学习。","id":0,"link":"https://github.com/StupidTAO/Python-2","name":"Python2"},
-                 {"describe":"这个项目是用于聚合知名新闻平台上的NBA新闻，如hupu，腾讯，新浪等，为NBA球迷们提供全面、准确、权威的NBA新闻。","id":0,"link":"https://github.com/StupidTAO/nba-tall","name":"Python2"}],
+                 {"describe":"这个项目是用于聚合知名新闻平台上的NBA新闻，如hupu，腾讯，新浪等，为NBA球迷们提供全面、准确、权威的NBA新闻。","id":0,"link":"https://github.com/StupidTAO/nba-tall","name":"nba-tall"}],
  "wechat":{"hint":"扫一扫关注曹海涛","image":"./images/main/cht_wechat.png"}}
